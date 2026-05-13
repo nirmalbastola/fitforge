@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_compact_description">FitForge — quick start a workout from your home screen.</string>
+    <string name="widget_large_description">FitForge — full stats and recent workouts at a glance.</string>
+</resources>
